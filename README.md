@@ -20,6 +20,9 @@
 
 <div align="center">video</div>
 
+<div align="center">
+<video src="https://user-images.githubusercontent.com/38008170/228587317-e7b48308-9553-453c-adf6-d48589a32371.mp4" />
+</div>
 <!-- GETTING STARTED -->
 
 ## Getting Started
