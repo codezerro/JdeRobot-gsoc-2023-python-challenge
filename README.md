@@ -1,9 +1,9 @@
 <div align="center">
 
-  <h3 align="center">JdeRobot - Python Challange</h3>
+  <h3 align="center">JdeRobot - Python Challenge</h3>
 
   <p align="center">
-  JdeRobot GSOC-2023 Python Challange
+  JdeRobot GSOC-2023 Python Challenge
   </br>
   <a href="https://youtu.be/BEPQ1uBBd5w" target="_blank">Youtube - Demo Video</a>
 
